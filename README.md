@@ -63,5 +63,15 @@ The goal is to provide a safe, supportive, and growth-oriented environment for m
 
 ---
 
-## 📁 Project Structure
+##🤝 Contributing
 
+This is a solo-founder project as of now, but contributions may open later.
+
+---
+
+##💙 Mission
+
+ManGrow exists to give men a voice.
+A space to heal.
+A space to connect.
+A space to grow.
